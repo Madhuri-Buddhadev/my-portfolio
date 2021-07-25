@@ -3,7 +3,3 @@ version: 0.1
 artifacts:
   files:
     -index.html
-    -favicon.ico
-    -MadhuriResume.pdf
-    -styles/main.css
-    -images/*
