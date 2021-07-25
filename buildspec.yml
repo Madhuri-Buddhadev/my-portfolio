@@ -1,11 +1,7 @@
 version: 0.1
 
-phases:
-  build:
-    commands:
-      -echo nothing here
 artifacts:
-  files:
+  files: 
     -index.html
     -favicon.ico
     -MadhuriResume.pdf
